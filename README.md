@@ -28,7 +28,6 @@ This repository is an ongoing research project that explores the capabilities of
 - Call the perform_detection function to perform object detection.
 - Save the output with bounding boxes in the patient's destination folder.
 ## Results
-- The YOLOv8n model achieves an accuracy of XX% on the custom dataset.
 - The model successfully detects and localizes objects of interest in new images.
 - The predictions are saved with confidence scores and bounding box coordinates.
 ## Detections (In Progress):
