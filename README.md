@@ -1,7 +1,7 @@
 # BrTD as an Anomally Detection Problem
 
 ## Overview
-This repository is an ongoing research project that explores the capabilities of YOLOv8, a deep learning model, for the detection of brain tumors in medical images. It leverages computer vision and machine learning techniques to effectively identify and localize tumors in brain scans, with the ultimate goal of advancing tumor detection accuracy.
+This repository is an ongoing project that explores the capabilities of YOLOv8, a deep learning model, for the detection of brain tumors in medical images. It leverages computer vision and machine learning techniques to effectively identify and localize tumors in brain scans, with the ultimate goal of advancing tumor detection accuracy.
 
 ## Features
 - Convert JSON labels to YOLO format.
