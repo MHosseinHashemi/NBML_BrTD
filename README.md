@@ -33,19 +33,13 @@ This repository is an ongoing project that explores the capabilities of YOLOv8, 
 ## Detections (In Progress):
 
 <p align="center">
-  <img src="https://github.com/MHosseinHashemi/NBML_BrTc/assets/90381570/0f8ee6df-852a-4c41-993b-3c14aa97b997" width="200" />
-  <img src="https://github.com/MHosseinHashemi/NBML_BrTc/assets/90381570/8d7b86f2-2edf-4095-8342-725498865f1c" width="200" />
-  <img src="https://github.com/MHosseinHashemi/NBML_BrTc/assets/90381570/6e589454-5b3d-4f42-be65-2d34e24fcf8e" width="200" />
-  <img src="https://github.com/MHosseinHashemi/NBML_BrTc/assets/90381570/942bd66d-cd79-4002-9318-42c757b26791" width="200" />
+  <img src="https://github.com/MHosseinHashemi/NBML_BrTD/assets/90381570/b973b6d4-754f-499b-b3c9-0142be9aec13" width="200" />
+  <img src="https://github.com/MHosseinHashemi/NBML_BrTD/assets/90381570/6ca03316-0c35-4069-aa4c-9d358571109a" width="200" />
+  <img src="https://github.com/MHosseinHashemi/NBML_BrTD/assets/90381570/351d0563-ab18-405b-a1f7-a73800aace22" width="200" />
+  <img src="https://github.com/MHosseinHashemi/NBML_BrTD/assets/90381570/2a17250d-f6ba-4ce2-8e26-8e330c436717" width="200" />
 </p>
 
 Performance Metrics of the models will be released eventually ...
-
-
-
-
-
-
 
 
 ## License
