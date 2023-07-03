@@ -39,7 +39,29 @@ This repository is an ongoing project that explores the capabilities of YOLOv8, 
   <img src="https://github.com/MHosseinHashemi/NBML_BrTD/assets/90381570/2a17250d-f6ba-4ce2-8e26-8e330c436717" width="200" />
 </p>
 
-Performance Metrics of the models will be released eventually ...
+Performance Metrics of the models will be released eventually ... <br>
+- Version-0 : <br>
+
+        #################### Tumor Sensitivity  ###################### 
+  
+        Tumor Accuracy = 1 
+        Tumor F1-Score = 0.86 
+        Tumor Precision = 0.75 
+        Tumor Recall = 1 
+        
+        #################### Normal Sensitivity ###################### 
+  
+        Normal Detection Accuracy = 0.96
+        Normal Detection F1-Score = 0.98 
+        Normal Detection Precision = 1 
+        Normal Detection Recall = 0.96 
+  
+        ################### Average Sensitivity ###################### 
+  
+        Accuracy = 0.98 
+        F1-Score = 0.92 
+        Precision = 0.88 
+        Recall = 0.98 
 
 
 ## License
